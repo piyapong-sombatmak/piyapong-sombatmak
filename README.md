@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning d3 vue
 - 💞️ 👀
 - 📫 How to reach me [facebook](https://facebook.com/jong.ene)
-- 🧵 I'm used C,C++,python,Darf,Java,Javascript,etc 
+- 🧵 I'm used C,C++,python,Darf,Go,Java,Javascript,etc 
 - 🤖 MCU(Arduino,ESP32),PLC,Siements LOGO!,Node-red
-- 🔲 Framework Django,Anguler,Flutter,Express
+- 🔲 Framework Django,Anguler,Flutter,Express,Fiber
 
 <!---
 piyapong-sombatmak/piyapong-sombatmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
